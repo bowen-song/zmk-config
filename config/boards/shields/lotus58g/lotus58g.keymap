@@ -130,7 +130,7 @@
 &bootloader  &reset       &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4                          &out OUT_TOG  &out OUT_USB  &out OUT_BLE  &trans      &reset     &bootloader
 &kp GRAVE    &kp INS      &kp PSCRN    &kp K_CMENU  &reset       &trans                                &kp PG_UP     &trans        &kp LBKT      &kp RBKT    &kp BSLH   &trans
 &kp EXCL     &kp AT       &kp POUND    &kp DOLLAR   &kp PRCNT    &kp CARET    &trans      &trans       &kp AMPS      &kp STAR      &kp LPAR      &kp RPAR    &kp MINUS  &kp EQUAL
-&kp SHIFT    &kp K_UNDO   &kp K_CUT    &kp K_COPY   &kp K_PASTE  &trans       &trans      &trans       &trans        &kp C_PP      &kp C_PREV    &kp C_NEXT  &trans     &trans
+&kp LSHFT    &kp K_UNDO   &kp K_CUT    &kp K_COPY   &kp K_PASTE  &trans       &trans      &trans       &trans        &kp C_PP      &kp C_PREV    &kp C_NEXT  &trans     &trans
                                        &trans       &trans       &trans       &trans      &trans       &trans        &trans        &trans   
             >;
 
